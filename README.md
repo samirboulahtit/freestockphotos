@@ -1,3 +1,4 @@
+
 # freestockphotos
 A curated list of amazing free stock photo websites
 
@@ -22,6 +23,13 @@ http://picography.co/ | No | No
 http://getrefe.tumblr.com/ | No | No 
 http://jaymantri.com/ | No | No 
 http://publicdomainarchive.com/ | No | No 
+
+Be sure to check each website's license page for specific details.
+* Creative Commons zero means that you can use the photos in any way you'd like, without asking permission. 
+* Creative Commons with attribution means that you can use the photo in any way you want, as long as you credit the creator of the photo. 
+Attribution is simple: If you include a photo on one of a web page, add text that cites the photographer ("Photo by John Smith") and be sure to include a link to his or her site, if there's one.
+
+
 
 # Credits
 https://www.entrepreneur.com/slideshow/299457
